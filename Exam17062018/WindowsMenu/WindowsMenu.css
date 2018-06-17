@@ -1,0 +1,58 @@
+body{
+    background-image: url("images/background.png");
+    background-color: #cccccc;
+}
+p{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.col{
+    float: left;
+    width: 485px;
+    height: 450px;
+}
+.empty-up{
+    float: inherit;
+    width: 1145px;
+    height: 370px;
+}
+.empty-left{
+    float: left;
+    height: 370px;
+    width: 175px;
+}
+.row{
+    height: 32%;
+}
+.cube{
+    margin: 2px;
+    width: 32%;
+    float: left;
+    height: 100%;
+}
+.cube-right{
+    margin: 2px;
+    width: 32%;
+    float: right;
+    height: 100%;
+}
+.inner-row{
+    height:50%;
+}
+.inner-cube{
+    float: right;
+    width: 47%;
+    height: 98%;
+    margin: 2px;
+}
+.title{
+    float: left;
+    width: 50%;
+    height: 20%;
+    }
+.titles{
+    float: left;
+    width: 970px;
+    height: 370px;
+}

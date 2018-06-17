@@ -16,50 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Welcome.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Welcome.html">
+      <file leaf-file-name="SoftuniRegistration.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exam17062018/SoftuniRegistration/SoftuniRegistration.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wiki-page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wiki-page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="1496">
+              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#4292#4298#0" expanded="true" />
+                <element signature="e#4432#4438#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="to-do-list.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/to-do-list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kitchen-design.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/14.Transitions-and-Animations/02.Kitchen-design/kitchen-design.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14.Transitions-and-Animations/02.Kitchen-design/styles.css">
+      <file leaf-file-name="SoftuniRegistration.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam17062018/SoftuniRegistration/SoftuniRegistration.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -68,31 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HTML-list.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML-list.html">
+      <file leaf-file-name="WindowsMenu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam17062018/WindowsMenu/WindowsMenu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="2278">
+              <caret line="140" column="27" lean-forward="false" selection-start-line="140" selection-start-column="23" selection-end-line="140" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="to-do-list.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/to-do-list.css">
+      <file leaf-file-name="WindowsMenu.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam17062018/WindowsMenu/WindowsMenu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fruits.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fruits.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -107,6 +68,28 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>body</find>
+      <find>/content/</find>
+      <find>/authentication-pages/</find>
+      <find>reg</find>
+      <find>logo</find>
+      <find>log</find>
+      <find>size</find>
+      <find>back</find>
+      <find>create</find>
+      <find>empty-up</find>
+      <find>play</find>
+      <find>code</find>
+      <find>485</find>
+      <find>.svg</find>
+      <find>im</find>
+      <find>svg</find>
+      <find>font</find>
+      <find>form</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -123,6 +106,21 @@
         <option value="$PROJECT_DIR$/Navigation-bar.html" />
         <option value="$PROJECT_DIR$/14.Transitions-and-Animations/02.Kitchen-design/styles.css" />
         <option value="$PROJECT_DIR$/14.Transitions-and-Animations/02.Kitchen-design/kitchen-design.html" />
+        <option value="$PROJECT_DIR$/Exam17062018/Cybersecurity/Cybersecurity.css" />
+        <option value="$PROJECT_DIR$/Exam17062018/Cybersecurity/Cybersecurity.html" />
+        <option value="$PROJECT_DIR$/Exam17062018/SoftUniLandingPage/SoftUniLandingPage.html" />
+        <option value="$PROJECT_DIR$/Exam17062018/SoftUniLandingPage/SoftUniLandingPage.css" />
+        <option value="$PROJECT_DIR$/Exam17062018/Softuni - Registration/Autentication.css" />
+        <option value="$PROJECT_DIR$/Exam17062018/Softuni - Registration/SoftuniRegistration.css" />
+        <option value="$PROJECT_DIR$/Exam17062018/Softuni - Registration/SoftUniSource.html" />
+        <option value="$PROJECT_DIR$/Exam17062018/Softuni - Registration/SoftuniRegistration.html" />
+        <option value="$PROJECT_DIR$/Exam17062018/SoftuniRegistration/Регистрация - SoftUni.html" />
+        <option value="$PROJECT_DIR$/Exam17062018/SoftuniRegistration/Autentication.css" />
+        <option value="$PROJECT_DIR$/Exam17062018/SoftuniRegistration/SoftUniSource.html" />
+        <option value="$PROJECT_DIR$/Exam17062018/WindowsMenu/WindowsMenu.html" />
+        <option value="$PROJECT_DIR$/Exam17062018/WindowsMenu/WindowsMenu.css" />
+        <option value="$PROJECT_DIR$/Exam17062018/SoftuniRegistration/SoftuniRegistration.css" />
+        <option value="$PROJECT_DIR$/Exam17062018/SoftuniRegistration/SoftuniRegistration.html" />
       </list>
     </option>
   </component>
@@ -133,7 +131,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="677" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="696" />
     <option name="height" value="735" />
   </component>
@@ -155,6 +154,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -166,19 +166,24 @@
             <path>
               <item name="HTML-CSS" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML-CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="14.Transitions-and-Animations" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam17062018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HTML-CSS" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML-CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="14.Transitions-and-Animations" type="462c0819:PsiDirectoryNode" />
-              <item name="02.Kitchen-design" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam17062018" type="462c0819:PsiDirectoryNode" />
+              <item name="SoftuniRegistration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML-CSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML-CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam17062018" type="462c0819:PsiDirectoryNode" />
+              <item name="WindowsMenu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,6 +192,12 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\WS\HTML-CSS\Exam17062018\SoftuniRegistration\content\css" />
+      <recent name="C:\Projects\WS\HTML-CSS\Exam17062018\SoftuniRegistration" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -212,20 +223,36 @@
       <updated>1528566003318</updated>
       <workItem from="1528566005066" duration="42000" />
       <workItem from="1528619076562" duration="17887000" />
-      <workItem from="1529180008441" duration="315000" />
+      <workItem from="1529180008441" duration="1228000" />
+      <workItem from="1529219222391" duration="19730000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1529180494575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529180494575</updated>
+    </task>
+    <task id="LOCAL-00002" summary="a">
+      <created>1529180601043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529180601043</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18244000" />
+    <option name="totallyTimeSpent" value="38887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18081991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1466877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -237,7 +264,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -246,6 +272,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -265,7 +295,73 @@
         <state relative-caret-position="442">
           <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding>
-            <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/to-do-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.Transitions-and-Animations/02.Kitchen-design/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/to-do-list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fruits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.Transitions-and-Animations/02.Kitchen-design/kitchen-design.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wiki-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -323,7 +419,7 @@
         <state relative-caret-position="442">
           <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding>
-            <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -377,9 +473,116 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/14.Transitions-and-Animations/02.Kitchen-design/kitchen-design.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        <state relative-caret-position="323">
+          <caret line="19" column="50" lean-forward="false" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/Cybersecurity/Cybersecurity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/Cybersecurity/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/SoftUniLandingPage/SoftUniLandingPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/SoftUniLandingPage/SoftUniLandingPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/Cybersecurity/Cybersecurity.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/SoftuniRegistration/content/css/styles__ltr.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19944">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/SoftuniRegistration/Autentication.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="31" column="15" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/SoftuniRegistration/SoftUniSource.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="23" column="99" lean-forward="false" selection-start-line="23" selection-start-column="96" selection-end-line="23" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/SoftuniRegistration/Регистрация - SoftUni.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="312" column="136" lean-forward="false" selection-start-line="312" selection-start-column="135" selection-end-line="312" selection-end-column="136" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/WindowsMenu/WindowsMenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/WindowsMenu/WindowsMenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="140" column="27" lean-forward="false" selection-start-line="140" selection-start-column="23" selection-end-line="140" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/SoftuniRegistration/SoftuniRegistration.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam17062018/SoftuniRegistration/SoftuniRegistration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <element signature="e#4292#4298#0" expanded="true" />
+            <element signature="e#4432#4438#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
